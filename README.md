@@ -14,13 +14,13 @@
 
 <h2>⚒️ Struttura del codice:</h2>
 <ol>
-  <li><strong>Selezione degli elementi dal DOM</strong>: Utilizziamo <code>document.querySelector</code> per ottenere gli elementi del contatore e i relativi pulsanti dal DOM.
+  <li><strong>Selezione degli elementi dal DOM</strong>: ho utilizzato <code>document.querySelector</code> per ottenere gli elementi del contatore e i relativi pulsanti dal DOM.
     <ul>
       <li><code>displayContatore</code>: Mostra il valore del contatore.</li>
       <li><code>bottoneIncremento</code>, <code>bottoneDecremento</code>, <code>bottoneReset</code>: Sono i pulsanti di interazione.</li>
     </ul>
   </li>
-  <li><strong>Gestione degli eventi</strong>: Aggiungiamo gestori di eventi (<code>addEventListener</code>) per i pulsanti.
+  <li><strong>Gestione degli eventi</strong>: Con (<code>addEventListener</code>) ho gestito gli eventi per i pulsanti.
     <ul>
       <li><strong>Incremento</strong>: Incrementa il valore e aggiorna il display.</li>
       <li><strong>Decremento</strong>: Decrementa il valore e aggiorna il display.</li>
@@ -37,5 +37,5 @@
 </ol>
 
 <h2>👨🏻‍💻 Testa il progetto:</h2>
-Basta che clicchi il link qui in basso:
-<a href="https://dgmichele.github.io/Counter/" rel="noopener" target="_blank">🔗 Counter JS 🔗</a>
+Basta che clicchi il link qui in basso:<br>
+<a href="https://dgmichele.github.io/Counter/" rel="noopener" target="_blank">Counter JS ↗️</a>
