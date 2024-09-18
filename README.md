@@ -14,16 +14,18 @@
 
 <h2>⚒️ Struttura del codice:</h2>
 
+<p><strong>La struttura può essere suddivisa in 4 parti principali</strong></p>
+
 <ol>
 
   <li>Ricerca e ottenimento del contenitore del display del contatore e quello dedicato ai pulsanti</li>
-    <ul>Creazione della variabile che gestirà il valore dinamico del display</ul>
+    <ul><li>Creazione della variabile che gestirà il valore dinamico del display</li></ul>
   <li>Creazione dei bottoni dinamici da appendere al contenitore dei pulsanti</li>
   <li>Gestione eventi del contatore con <code>.addEventListener()</code> per l’incremento, decremento e reset dei valori</li>
   <li>Creazione funzione <code>colore()</code> per rendere il colore dei valori condizionali</li>
-    <ul>Verde: se il numero è positivo</ul>
-    <ul>Rosso: se il numero è negativo</ul>
-    <ul>Se uguale a 0 il colore non subirà cambiamenti</ul>
+    <ul><li>Verde: se il numero è positivo</li></ul>
+    <ul><li>Rosso: se il numero è negativo</li></ul>
+    <ul><li>Se uguale a 0 il colore non subirà cambiamenti</li></ul>
 
 </ol>
 
