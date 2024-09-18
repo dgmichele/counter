@@ -43,6 +43,7 @@ p{
     }
 }
 
+/* Fine stile generale */
 
 /* Header*/
 
@@ -202,7 +203,7 @@ header{
     align-items: center;
 }
 
-#incremento, #decremento, #reset{
+.incremento, .decremento, .reset{
     border:none;
     border-radius: 7px;
     padding:15px;
@@ -212,51 +213,51 @@ header{
     transition: 0.3s;
 }
 
-#incremento, #decremento{
+.incremento, .decremento{
     width: 23%;
     font-weight: 700;
 }
 
-#incremento{
+.incremento{
     border: 1px solid #2fa142;
     background-color: #a6f5b4;
     color: #2fa142;
 }
 
-#incremento:hover{
+.incremento:hover{
     background-color: #c0facb;
 }
 
-#incremento:active{
+.incremento:active{
     background-color: #d7fcdd;
 }
 
-#decremento{
+.decremento{
     border: 1px solid #d63131;
     background-color: #fcc0c0;
     color: #d63131;
 }
 
-#decremento:hover{
+.decremento:hover{
     background-color: #fcd2d2;
 }
 
-#decremento:active{
+.decremento:active{
     background-color: #fce3e3;
 }
 
-#reset{
+.reset{
     width: 46.9%;
     border: 1px solid #c2c9d1;
     background-color: #dfe4eb;
     color: #7c8794;
 }
 
-#reset:hover{
+.reset:hover{
     background-color: #e8eaed;
 }
 
-#reset:active{
+.reset:active{
     background-color: #ebedf0;
 }
 
