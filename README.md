@@ -30,5 +30,5 @@
 </ol>
 
 <h2>👨🏻‍💻 Testa il progetto:</h2>
-<p>Non ti resta che provare tu stesso, basta che clicchi il link qui in basso:</p><br>
+<p>Non ti resta che provare tu stesso, basta che clicchi il link qui in basso:</p>
 <a href="https://dgmichele.github.io/Counter/" rel="noopener" target="_blank"><strong>Counter JS ↗️</strong></a>
