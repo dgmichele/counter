@@ -14,7 +14,7 @@
 
 <h2>⚒️ Struttura del codice:</h2>
 
-<p><strong>La struttura può essere suddivisa in 4 parti principali</strong></p>
+<p><strong>La struttura può essere suddivisa in 4 parti principali:</strong></p>
 
 <ol>
 
